@@ -1,0 +1,10 @@
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CopyComplete
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.AssemblyReference.cache

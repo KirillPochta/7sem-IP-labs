@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "C01";
+    HttpRequestBase request = ViewBag.Request;
+}
+
+<h2>C01</h2>
+<label>Method - @request.HttpMethod</label>
+<br />
+<label>Params</label>
+<p style="font-size =10px;">
+        @for (int i = 0; i < request.Params.Count; i++)
+        {
+            <br /> 
+           
+            <span> @request.Params.GetKey(i) : </span>
+            @request.Params.Get(request.Params.GetKey(i))
+        }
+    </p>
+<br />
+Uri - @request.Url;
+<br />
+<h4>Заголовки: </h4>
+<p>
+    @for (int i = 0; i < request.Headers.Count; i++)
+    {
+        <br /> @request.Headers.GetKey(i)
+        <span> : </span>
+        @request.Headers.Get(request.Headers.GetKey(i))
+    }
+</p>
+
+@if (request.HttpMethod == "POST")
+{
+    <h4>body</h4>
+    <p>
+        @using (var reader = new StreamReader(request.InputStream))
+        {
+            var body = reader.ReadToEnd();
+            @body
+        }
+    </p>
+}

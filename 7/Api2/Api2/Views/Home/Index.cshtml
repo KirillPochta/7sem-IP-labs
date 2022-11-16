@@ -1,0 +1,186 @@
+﻿<style>
+    div {
+        display: inline-block;
+        margin: 20px;
+    }
+
+    #tableBlock {
+        width: auto;
+    }
+
+    #editBlock {
+        display: none;
+        float: right;
+    }
+
+    #createBlock {
+        float: right;
+    }
+</style>
+<div id="tableBlock"></div>
+<div id="editBlock">
+    <h3>Edit Phone</h3>
+    <table>
+        <tr><td><input type="hidden" id="editId" /></td><td></td></tr>
+        <tr><td><label>Name: </label></td><td><input type="text" id="editName" /></td></tr>
+        <tr><td><label>Number: </label></td><td><input type="number" id="editNumber" /></td></tr>
+    </table>
+    <button id="EditPhone">Save</button>
+</div>
+<div id="createBlock">
+    <h3>New phone</h3>
+    <table>
+        <tr><td><label>Name: </label></td><td><input type="text" id="addName" /></td></tr>
+        <tr><td><label>Number: </label></td><td><input type="text" id="addNumber" /></td></tr>
+    </table>
+    <button id="AddPhone">Add</button>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            GetAllPhones();
+
+            $("#EditPhone").click(function (event) {
+                event.preventDefault();
+                EditPhone();
+            });
+
+            $("#AddPhone").click(function (event) {
+                event.preventDefault();
+                AddPhone();
+            });
+
+        });
+        // Получение всех книг по ajax-запросу
+        function GetAllPhones() {
+
+            $("#createBlock").css('display', 'block');
+            $("#editBlock").css('display', 'none');
+            $.ajax({
+                url: '/TS/values',
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    WriteResponse(data);
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+        // Добавление новой книги
+        function AddPhone() {
+            // получаем значения для добавляемой книги
+            var phone = {
+                Name: $('#addName').val(),
+                Number: $('#addNumber').val(),
+            };
+
+            $.ajax({
+                url: '/TS/values',
+                type: 'POST',
+                data: JSON.stringify(phone),
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    GetAllPhones();
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+        // Удаление книги
+        function DeletePhone(id) {
+
+            $.ajax({
+                url: '/TS/values/' + id,
+                type: 'DELETE',
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    GetAllPhones();
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+        // редактирование книги
+        function EditPhone() {
+            var id = $('#editId').val()
+            // получаем новые значения для редактируемой книги
+            var phone = {
+                Id: $('#editId').val(),
+                Name: $('#editName').val(),
+                Number: $('#editNumber').val()
+            };
+            $.ajax({
+                url: '/TS/values/' + id,
+                type: 'PUT',
+                data: JSON.stringify(phone),
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    GetAllPhones();
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+        // вывод полученных данных на экран
+        function WriteResponse(phones) {
+            var strResult = "<table><th>ID </th><th> Name </th><th>Number</th>";
+            $.each(phones, function (index, phone) {
+                strResult += "<tr><td>" + phone.Id + "</td><td> " + phone.Name + "</td><td>" +
+                    phone.Number + "</td>" + "<td><a id='editItem' data-item='" + phone.Id + "' onclick='EditItem(this);'   >Edit </a></td>" +
+                    "<td><a id='delItem' data-item='" + phone.Id + "' onclick='DeleteItem(this);' >Delete</a></td></tr>";
+            });
+            strResult += "</table>";
+            $("#tableBlock").html(strResult);
+
+        }
+        // обработчик удаления
+        function DeleteItem(el) {
+
+            // получаем id удаляемого объекта
+            var id = $(el).attr('data-item');
+            DeletePhone(id);
+        }
+        // обработчик редактирования
+        function EditItem(el) {
+
+            // получаем id редактируемого объекта
+            var id = $(el).attr('data-item');
+            GetPhone(id);
+        }
+        // вывод данных редактируемой книги в поля для редактирования
+        function ShowPhone(phone) {
+            if (phone != null) {
+                $("#createBlock").css('display', 'none');
+                $("#editBlock").css('display', 'block');
+                $("#editId").val(phone.Id);
+                $("#editName").val(phone.Name);
+                $("#editNumber").val(phone.Number);
+            }
+            else {
+                alert("There is no such phone");
+            }
+        }
+        // запрос книги на редактирование
+        function GetPhone(id) {
+
+            $.ajax({
+                url: '/TS/values/' + id,
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    ShowPhone(data);
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+    </script>
+}

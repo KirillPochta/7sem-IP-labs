@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+@using _3.ViewHelper;
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    @section head {
+        <h2>Phone Book by Pochta</h2>
+    }
+    <div>
+        <h3>New Phone</h3>
+        @Html.AddPhoneForm()
+        @*<form method="post" action="/Dict/AddSave/">
+                <input type="hidden" value="0" name="Id" />
+                <label>Name: </label> <input type="text" name="Name" />
+                <label>Number: </label> <input type="text" name="Number" />
+                <input type="submit" value="Add" />
+            </form>*@
+    </div>
+</body>
+</html>

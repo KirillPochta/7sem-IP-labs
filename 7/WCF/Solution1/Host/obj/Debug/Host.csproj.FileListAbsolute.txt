@@ -1,0 +1,13 @@
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\bin\Debug\Host.exe.config
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\bin\Debug\Host.exe
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\bin\Debug\Host.pdb
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\bin\Debug\WcfServiceLibrary.dll
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\bin\Debug\Newtonsoft.Json.dll
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\bin\Debug\WcfServiceLibrary.pdb
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\bin\Debug\WcfServiceLibrary.dll.config
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\bin\Debug\Newtonsoft.Json.xml
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\obj\Debug\Host.csproj.CopyComplete
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\obj\Debug\Host.exe
+D:\important\7sem\InternetProgramming\labs\7\WCF\Solution1\Host\obj\Debug\Host.pdb

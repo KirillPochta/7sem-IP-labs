@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "C02";
+    HttpRequestBase request = ViewBag.Request;
+    HttpResponseBase response = ViewBag.Response;
+}
+
+<h2>C02</h2>
+
+<h4>Статус: @response.Status</h4>
+<h4>Заголовки:</h4>
+<p>
+    @for (int i = 0; i < response.Headers.Count; i++)
+    {
+        <br /> @response.Headers.GetKey(i)
+        <span> = </span>
+        @response.Headers.Get(response.Headers.GetKey(i))
+    }
+</p>
+<h4>Тело:</h4>
+<p>
+    @using (var reader = new StreamReader(request.InputStream))
+    {
+        var body = reader.ReadToEnd();
+        @body
+    }
+</p>

@@ -1,0 +1,29 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+@using _3.ViewHelper
+@{  int id = ViewBag.Id; 
+    string name = ViewBag.Name;
+    int number = ViewBag.Number;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <h3>Update Phone</h3>
+        @Html.UpdatePhoneForm(id.ToString(), number.ToString(), name)
+        @*<form method="post" action="/Dict/UpdateSave/">
+                <input type="hidden" value="@ViewBag.Id" name="Id" />
+                <label>Name: </label> <input type="text" value="@ViewBag.Name" name="Name" />
+                <label>Number: </label> <input type="text" value="@ViewBag.Number" name="Number" />
+                <input type="submit" value="Update" />
+            </form>*@
+    </div>
+    <a href="/Dict/Index">Back</a></p>
+</body>
+</html>
