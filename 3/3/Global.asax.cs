@@ -16,8 +16,6 @@ namespace _3
 
         protected void Application_Start()
         {
-            Database.SetInitializer(new PhoneDbInitializer());
-
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }

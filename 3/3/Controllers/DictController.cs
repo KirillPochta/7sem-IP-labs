@@ -8,12 +8,12 @@ namespace _3.Controllers
 {
     public class DictController : Controller
     {
+        public IEnumerable<Phone> phonesCollection = PhoneDbInitializer.GetCollection().OrderBy(i => i.Name);
+
         // создаем контекст данных
-        PhoneContext db = new PhoneContext();
         [HttpGet]
         public ActionResult Index()
         {
-            IEnumerable<Phone> phonesCollection = PhoneDbInitializer.GetCollection().OrderBy(i => i.Name);
             ViewBag.Phones = phonesCollection;
             // возвращаем представление
             return View();
