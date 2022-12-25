@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.userController.GetAll">
+            <summary>
+            Get All Users
+            </summary>
+            <returns>User list</returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.userController.Get(System.Int32)">
+            <summary>
+            Get User by Id
+            </summary>
+            <param name="id">User Id</param>
+            <response code="200">User is found</response>
+            <response code="404">User is not found</response>
+            <returns>User</returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.userController.Add(WebApplication1.Models.User)">
+            <summary>
+            Add User
+            </summary>
+            <param name="user"></param>
+            <response code="200">User is added</response>
+            <response code="400">User is added</response>
+            <returns>User</returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.userController.Update(WebApplication1.Models.User)">
+            <summary>
+            Update User by Id
+            </summary>
+            <response code="200">User is updated</response>
+            <response code="400">User is not updated</response>
+            <param name="user"></param>
+            <returns>User</returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.userController.Delete(System.Int32)">
+            <summary>
+            Delete User by Id
+            </summary>
+            <response code="200">User is deleted</response>
+            <response code="404">User is not found</response>
+            <param name="id">User Id</param>
+            <returns>User</returns>
+        </member>
+        <member name="P:WebApplication1.Models.User.Id">
+            <summary>
+            User Id
+            </summary>
+            <example>1</example>
+        </member>
+        <member name="P:WebApplication1.Models.User.LastName">
+            <summary>
+            Last Name
+            </summary>
+            <example>Denisyuk</example>
+        </member>
+        <member name="P:WebApplication1.Models.User.FirstName">
+            <summary>
+            First Name
+            </summary>
+            <example>Ivan</example>
+        </member>
+        <member name="P:WebApplication1.Models.User.Email">
+            <summary>
+            User e-mail
+            </summary>
+            <example>ivan.den@gmail.com</example>
+        </member>
+        <member name="P:WebApplication1.Models.User.Password">
+            <summary>
+            Password
+            </summary>
+            <example>password</example>
+        </member>
+        <member name="P:WebApplication1.Models.User.Status">
+            <summary>
+            active/passive
+            </summary>
+            <example>Active</example>
+        </member>
+        <member name="P:WebApplication1.Models.User.Role">
+            <summary>
+            admin/user
+            </summary>
+            <example>customer</example>
+        </member>
+        <member name="M:WebApplication1.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+        </member>
+    </members>
+</doc>

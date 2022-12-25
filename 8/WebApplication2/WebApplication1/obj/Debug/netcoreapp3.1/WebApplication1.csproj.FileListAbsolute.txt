@@ -1,0 +1,144 @@
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.xml
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.xml
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+d:\Учёба\4 курс\ПВИ\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.xml
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.xml
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\important\7sem\InternetProgramming\2021\labs\laba13\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
